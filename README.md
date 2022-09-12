@@ -173,10 +173,7 @@ NPC动画以及文本框
 
 ![](https://cos.zinzin.cc//images_1/Ruby%E5%A4%A7%E5%86%92%E9%99%A9_S9nEzM9uHS.png?imageMogr2/format/webp)
 
-演示视频（文件较大）：
+演示视频（文件较大）：[点击访问](https://pan.zinzin.cc/s/77nrjx)
 
-<video id="video" controls="" preload="none" poster="https://cos.zinzin.cc//images_1/Unity_qp4chrsOaE.png?imageMogr2/format/webp"  width="500" height="500">
-    <source id="mp4" src="https://pan.zinzin.cc/directlink/zfile/%E6%BC%94%E7%A4%BA%E6%96%87%E4%BB%B6/68D0BuNEma.mp4" type="video/mp4"><source>
-</video>
 
 好啦~暂时就到这里了！
